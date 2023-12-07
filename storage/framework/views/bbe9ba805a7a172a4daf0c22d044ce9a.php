@@ -102,7 +102,7 @@
 								<div class="header-row">
 									<div class="header-logo">
 										<a href="<?php echo e(asset('html/demo-church.html')); ?>">
-											<img alt="Porto" width="123" height="48" src="img/demos/church/logo.png') }}">
+											<img alt="" width="115" height="108" src="<?php echo e(asset('html/img/demos/church/logoo.png')); ?>">
 										</a>
 									</div>
 								</div>
@@ -608,7 +608,8 @@
 
 
 		<!-- Vendor -->
-		<script data-cfasync="false" src="<?php echo e(asset('html/../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js')); ?>"></script><script src="vendor/plugins/js/plugins.min.js"></script>
+		<script data-cfasync="false" src="<?php echo e(asset('html/../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js')); ?>"></script>
+		<script src="<?php echo e(asset('html/vendor/plugins/js/plugins.min.js')); ?>"></script>
 		<script src="<?php echo e(asset('html/vendor/jquery.countdown/jquery.countdown.min.js')); ?>"></script>
 
 		<!-- Theme Base, Components and Settings -->
