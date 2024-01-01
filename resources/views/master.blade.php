@@ -284,12 +284,17 @@
 							<div class="col-lg-4 col-sm-8 mb-4 mb-lg-0">
 								<img src="img/demos/church/icons/custom-icon-2.png') }}" alt class="img-repsonsive" />
 								<h2 class="font-weight-bold text-color-light">Join with Us</h2>
-								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 8.00pm - 9.00pm</strong></br> at Porto Church, 123 porto</br> ave porto, PT 12345</p>
+								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br>Address: Kings Heath Industrial Estate,
+                                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
 							</div>
 							<div class="col-lg-4 col-sm-8">
 								<img src="img/demos/church/icons/custom-icon-3.png') }}" alt class="img-repsonsive" />
 								<h2 class="font-weight-bold text-color-light">Our Mission</h2>
-								<p class="custom-text-color-2">Lorem ipsum dolor sit amet, adipiscing elit.</br> Mauris accumsan tortor ut posuere consequat.</br> Fusce aliquet, dolor eget tempus ultricies, eros.</p>
+								<p class="custom-text-color-2"> To lead people to Christ massively all over the world.
+                                    </br> To establish vibrant Churches strategically all over the world that will plant other vibrant churches.
+                                    </br> To make the world a better place through practical application of the Gospel of Christ.
+                                    </br> To make heaven our home at last.
+                                .</p>
 							</div>
 						</div>
 					</div>
