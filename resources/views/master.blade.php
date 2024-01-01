@@ -120,18 +120,16 @@
 													</li>
 													<li class="dropdown dropdown-full-color dropdown-primary">
 														<a class="dropdown-item dropdown-toggle" href="{{ asset('html/demo-church-about-us.html') }}">
-															About Us
+															Who We Are
 														</a>
 														<ul class="dropdown-menu">
 															<li>
-																<a class="dropdown-item" href="{{ asset('html/demo-church-about-us.html') }}">Overview</a>
+																<a class="dropdown-item" href="#">Overview</a>
 															</li>
 															<li>
-																<a class="dropdown-item" href="{{ asset('html/demo-church-about-us-staff.html') }}">Staff</a>
+																<a class="dropdown-item" href="#">Our Pastors</a>
 															</li>
-															<li>
-																<a class="dropdown-item" href="{{ asset('html/demo-church-about-us-locations.html') }}">Locations</a>
-															</li>
+
 														</ul>
 													</li>
 													<li>
@@ -276,18 +274,18 @@
 							</div>
 						</div>
 						<div class="row justify-content-center text-center">
-							<div class="col-lg-4 col-sm-8 mb-4 mb-lg-0">
+							{{-- <div class="col-lg-4 col-sm-8 mb-4 mb-lg-0">
 								<img src="img/demos/church/icons/custom-icon-1.png') }}" alt class="img-repsonsive" />
 								<h2 class="font-weight-bold text-color-light">Our Values</h2>
 								<p class="custom-text-color-2">Lorem ipsum dolor sit amet, adipiscing elit.</br> Mauris accumsan tortor ut posuere consequat.</br> Fusce aliquet, dolor eget tempus ultricies, eros.</p>
-							</div>
-							<div class="col-lg-4 col-sm-8 mb-4 mb-lg-0">
+							</div> --}}
+							<div class="col-lg-6 col-sm-8 mb-4 mb-lg-0">
 								<img src="img/demos/church/icons/custom-icon-2.png') }}" alt class="img-repsonsive" />
 								<h2 class="font-weight-bold text-color-light">Join with Us</h2>
 								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br>Address: Kings Heath Industrial Estate,
                                 </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
 							</div>
-							<div class="col-lg-4 col-sm-8">
+							<div class="col-lg-6 col-sm-8">
 								<img src="img/demos/church/icons/custom-icon-3.png') }}" alt class="img-repsonsive" />
 								<h2 class="font-weight-bold text-color-light">Our Mission</h2>
 								<p class="custom-text-color-2"> To lead people to Christ massively all over the world.
