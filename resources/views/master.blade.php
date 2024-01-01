@@ -16,7 +16,7 @@
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="{{ asset('html/img/favicon.ico') }}" type="image/x-icon" />
+		<link rel="shortcut icon" href="{{ asset('html/img/favicon.png') }}" type="image/x-icon" />
 		<link rel="apple-touch-icon" href="{{ asset('html/img/apple-touch-icon.png') }}">
 
 		<!-- Mobile Metas -->
@@ -85,7 +85,7 @@
 												<a href="https://www.instagram.com/clwocnorthampton?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
 											</li>
 											<li class="social-icons-youtube">
-												<a href="https://youtube.com/@SOTSMnorthampton" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+												<a href="https://youtube.com/@SOTSMnorthampton" target="_blank" title="Youtube"><i class="fab fa-twitter"></i></a>
 											</li>
 											<li class="social-icons-facebook">
 												<a href="https://m.facebook.com/story.php?story_fbid=pfbid02zDQF8c8XkrBbUC46x3EJFGi61MqntQETqSuEDFY9EEkmNsNKfM8xQ7bYbZZyAnvhl&id=100070144230445&sfnsn=scwspwa" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
