@@ -82,13 +82,13 @@
 									<div class="header-nav-features d-none d-md-block ms-5-5">
 										<ul class="header-social-icons social-icons social-icons-clean social-icons-icon-dark social-icons-medium me-2 mb-0 d-none d-sm-block ms-1">
 											<li class="social-icons-instagram">
-												<a href="{{ asset('html/http://www.instagram.com/') }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+												<a href="https://www.instagram.com/clwocnorthampton?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
 											</li>
-											<li class="social-icons-twitter">
-												<a href="{{ asset('html/http://www.twitter.com/') }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+											<li class="social-icons-youtube">
+												<a href="https://youtube.com/@SOTSMnorthampton" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
 											</li>
 											<li class="social-icons-facebook">
-												<a href="{{ asset('html/http://www.facebook.com/') }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+												<a href="https://m.facebook.com/story.php?story_fbid=pfbid02zDQF8c8XkrBbUC46x3EJFGi61MqntQETqSuEDFY9EEkmNsNKfM8xQ7bYbZZyAnvhl&id=100070144230445&sfnsn=scwspwa" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
 											</li>
 										</ul>
 									</div>
