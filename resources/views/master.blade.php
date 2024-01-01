@@ -151,7 +151,7 @@
 													</li>
 													<li>
 														<a class="nav-link" href="{{ asset('html/demo-church-blog.html') }}">
-															Blog
+															Giving
 														</a>
 													</li>
 												</ul>
