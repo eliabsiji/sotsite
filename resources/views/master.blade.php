@@ -102,7 +102,7 @@
 								<div class="header-row">
 									<div class="header-logo">
 										<a href="{{ asset('html/demo-church.html') }}">
-											<img alt="" width="115" height="108" src="{{  asset('html/img/demos/church/logoo.png') }}">
+											<img alt="" width="150" height="70" src="{{  asset('html/img/demos/church/logo2.png') }}">
 										</a>
 									</div>
 								</div>
@@ -175,7 +175,7 @@
 						<div class="owl-stage">
 
 							<!-- Carousel Slide 1 -->
-							<div class="owl-item position-relative overflow-hidden" style="background-image: url(img/demos/church/slides/slide-1.jpg); background-size: cover; background-position: center; background-position: center;">
+							<div class="owl-item position-relative overflow-hidden" style="background-image: url({{ asset('html/img/demos/church/slides/slide-1.jpg') }}); background-size: cover; background-position: center; background-position: center;">
 								<div class="container position-relative z-index-3 h-100">
 									<div class="row align-items-center justify-content-center h-100">
 										<div class="col-lg-7">
@@ -193,7 +193,7 @@
 							</div>
 
 							<!-- Carousel Slide 2 -->
-							<div class="owl-item position-relative overflow-hidden" style="background-image: url(img/demos/church/slides/slide-2.jpg); background-size: cover; background-position: center; background-position: center;">
+							<div class="owl-item position-relative overflow-hidden" style="background-image: url({{ asset('html/img/demos/church/slides/slide-2.jpg') }}); background-size: cover; background-position: center; background-position: center;">
 								<div class="container position-relative z-index-3 h-100">
 									<div class="row align-items-center justify-content-center h-100">
 										<div class="col-lg-7">
