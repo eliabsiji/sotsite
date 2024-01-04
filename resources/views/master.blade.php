@@ -477,7 +477,8 @@
 							<i class="fas fa-map-marker-alt text-color-primary custom-icon-size-1"></i>
 							<p class="custom-text-color-2 alternative-font-4 text-3-5">
 								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">SOTSM Church</strong>
-								Porto Church 123 Porto Blvd, </br>Suite 100 New York, NY
+								Address: Kings Heath Industrial Estate,
+                                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP
 							</p>
 						</div>
 						<div class="col-lg-4 custom-sm-margin-bottom-1">
