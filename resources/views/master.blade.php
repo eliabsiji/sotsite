@@ -438,7 +438,7 @@
 					</div>
 				</section>
 
-			
+
 
 				<section class="section section-tertiary section-no-border m-0">
 					<div class="container">
@@ -501,10 +501,10 @@
 					<div class="row text-center pb-5">
 						<div class="col">
 							<ul class="social-icons social-icons-clean custom-social-icons mb-3">
-								<li class="social-icons-facebook"><a href="{{ asset('html/http://www.facebook.com/') }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-googleplus"><a href="{{ asset('html/http://www.google.com/') }}" target="_blank" title="Google Plus"><i class="fab fa-google-plus-g"></i></a></li>
-								<li class="social-icons-youtube"><a href="{{ asset('html/http://www.twitter.com/') }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-								<li class="social-icons-instagram"><a href="{{ asset('html/http://www.instagram.com/') }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-facebook"><a href="https://m.facebook.com/story.php?story_fbid=pfbid02zDQF8c8XkrBbUC46x3EJFGi61MqntQETqSuEDFY9EEkmNsNKfM8xQ7bYbZZyAnvhl&id=100070144230445&sfnsn=scwspwa" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+
+								<li class="social-icons-youtube"><a href="https://youtube.com/@SOTSMnorthampton" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+								<li class="social-icons-instagram"><a href="https://www.instagram.com/clwocnorthampton?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
 							</ul>
 							<p class="alternative-font-4 text-3 text-color-light opacity-7">© Copyright 2023. All Rights Reserved.</p>
 						</div>
