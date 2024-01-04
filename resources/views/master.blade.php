@@ -476,16 +476,16 @@
 						<div class="col-lg-3 custom-sm-margin-bottom-1">
 							<i class="fas fa-map-marker-alt text-color-primary custom-icon-size-1"></i>
 							<p class="custom-text-color-2 alternative-font-4 text-3-5">
-								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">Porto Church</strong>
-								Porto Church 123 Porto Blvd, </br>Suite 100 New York, NY
+								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">SOTSM Church</strong>
+								<p class="custom-text-color-2"><strong class="text-color-light"> Kings Heath Industrial Estate,
+                                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
 							</p>
 						</div>
 						<div class="col-lg-4 custom-sm-margin-bottom-1">
 							<i class="far fa-clock text-color-primary custom-icon-size-1"></i>
 							<p class="custom-text-color-2 alternative-font-4 text-3-5">
 								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">Join us on</strong>
-								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br>Address: Kings Heath Industrial Estate,
-                                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
+								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br></p>
 							</p>
 						</div>
 						<div class="col-lg-3">
