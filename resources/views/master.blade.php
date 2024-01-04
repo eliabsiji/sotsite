@@ -484,8 +484,8 @@
 							<i class="far fa-clock text-color-primary custom-icon-size-1"></i>
 							<p class="custom-text-color-2 alternative-font-4 text-3-5">
 								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">Join us on</strong>
-								Sunday Worship<br>
-								8.00pm - 9.00pm
+								<p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br>Address: Kings Heath Industrial Estate,
+                                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
 							</p>
 						</div>
 						<div class="col-lg-3">
