@@ -476,7 +476,7 @@
 						<div class="col-lg-3 custom-sm-margin-bottom-1">
 							<i class="fas fa-map-marker-alt text-color-primary custom-icon-size-1"></i>
 							<p class="custom-text-color-2 alternative-font-4 text-3-5">
-								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">SOTSM Church</strong>
+								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">SOTSM NORTHAMPTOM</strong>
 								Address: Kings Heath Industrial Estate,
                                 </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP
 							</p>
@@ -492,8 +492,8 @@
 							<i class="fas fa-phone-volume text-color-primary custom-icon-size-1"></i>
 							<p class="alternative-font-4 text-3-5">
 								<strong class="d-block text-color-light custom-secondary-font text-5-5 line-height-8 mb-1">Call us now</strong>
-								<a href="{{ asset('html/tel:+91123456789')}}" class="text-decoration-none custom-text-color-2">Phone : (123) 456-789</a></br>
-								<a href="{{ asset('html/mail:mail@example.com')}}" class="text-decoration-none custom-text-color-2">Email : <span class="__cf_email__" data-cfemail="c9a4a8a0a589acb1a8a4b9a5ace7aaa6a4">[email&#160;protected]</span></a>
+								<a href="tel:+447847530525" class="text-decoration-none custom-text-color-2">Phone :+447847530525</a></br>
+								<a href="mail:clworldoutreach@hotmail.com" class="text-decoration-none custom-text-color-2">Email : <span class="__cf_email__" data-cfemail="c9a4a8a0a589acb1a8a4b9a5ace7aaa6a4">clworldoutreach@hotmail.com</span></a>
 							</p>
 						</div>
 					</div>
