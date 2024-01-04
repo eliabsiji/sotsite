@@ -127,7 +127,7 @@
 																<a class="dropdown-item" href="#">Overview</a>
 															</li>
 															<li>
-																<a class="dropdown-item" href="#">Our Pastors</a>
+																<a class="dropdown-item" href="#">Our Team</a>
 															</li>
 
 														</ul>
@@ -438,116 +438,7 @@
 					</div>
 				</section>
 
-				<section class="section section-no-border bg-color-light m-0">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-lg-12 col-sm-8">
-								<h2 class="font-weight-bold">Blog Post</h2>
-							</div>
-						</div>
-						<div class="row justify-content-center">
-							<div class="col-md-10 col-lg-4 mb-4 mb-lg-0">
-								<article class="custom-post-blog">
-									<span class="thumb-info custom-thumb-info-2">
-										<span class="thumb-info-wrapper">
-											<a href="{{ asset('html/demo-church-blog-detail.html') }}">
-												<img src="img/demos/church/blog/blog-1.jpg" alt class="img-fluid" />
-											</a>
-										</span>
-										<span class="thumb-info-caption custom-box-shadow">
-											<span class="thumb-info-caption-text">
-												<h4 class="font-weight-bold mb-4">
-													<a href="{{ asset('html/demo-church-blog-detail.html') }}" class="text-decoration-none custom-secondary-font text-color-dark">
-														Vestibulum tristique ipsum sed neque
-													</a>
-												</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at arcu sit amet.</p>
-											</span>
-											<span class="custom-thumb-info-post-infos text-center">
-												<ul>
-													<li class="text-uppercase">
-														<i class="icon-calendar icons"></i>
-														Nov 18
-													</li>
-													<li class="text-uppercase">
-														<i class="icon-user icons"></i>
-														John Doe
-													</li>
-												</ul>
-											</span>
-										</span>
-									</span>
-								</article>
-							</div>
-							<div class="col-md-10 col-lg-4 mb-4 mb-lg-0">
-								<article class="custom-post-blog">
-									<span class="thumb-info custom-thumb-info-2">
-										<span class="thumb-info-wrapper">
-											<a href="{{ asset('html/demo-church-blog-detail.html') }}">
-												<img src="img/demos/church/blog/blog-2.jpg" alt class="img-fluid" />
-											</a>
-										</span>
-										<span class="thumb-info-caption custom-box-shadow">
-											<span class="thumb-info-caption-text">
-												<h4 class="font-weight-bold mb-4">
-													<a href="{{ asset('html/demo-church-blog-detail.html') }}" class="text-decoration-none custom-secondary-font text-color-dark">
-														Mauris egestas dui ut dolor bibendum
-													</a>
-												</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at arcu sit amet.</p>
-											</span>
-											<span class="custom-thumb-info-post-infos text-center">
-												<ul>
-													<li class="text-uppercase">
-														<i class="icon-calendar icons"></i>
-														Nov 20
-													</li>
-													<li class="text-uppercase">
-														<i class="icon-user icons"></i>
-														John Doe
-													</li>
-												</ul>
-											</span>
-										</span>
-									</span>
-								</article>
-							</div>
-							<div class="col-md-10 col-lg-4">
-								<article class="custom-post-blog">
-									<span class="thumb-info custom-thumb-info-2">
-										<span class="thumb-info-wrapper">
-											<a href="{{ asset('html/demo-church-blog-detail.html') }}">
-												<img src="img/demos/church/blog/blog-3.jpg" alt class="img-fluid" />
-											</a>
-										</span>
-										<span class="thumb-info-caption custom-box-shadow">
-											<span class="thumb-info-caption-text">
-												<h4 class="font-weight-bold mb-4">
-													<a href="{{ asset('html/demo-church-blog-detail.html') }}" class="text-decoration-none custom-secondary-font text-color-dark">
-														Etiam id ex eu velit vestibulum congue
-													</a>
-												</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at arcu sit amet.</p>
-											</span>
-											<span class="custom-thumb-info-post-infos text-center">
-												<ul>
-													<li class="text-uppercase">
-														<i class="icon-calendar icons"></i>
-														Nov 25
-													</li>
-													<li class="text-uppercase">
-														<i class="icon-user icons"></i>
-														John Doe
-													</li>
-												</ul>
-											</span>
-										</span>
-									</span>
-								</article>
-							</div>
-						</div>
-					</div>
-				</section>
+			
 
 				<section class="section section-tertiary section-no-border m-0">
 					<div class="container">
