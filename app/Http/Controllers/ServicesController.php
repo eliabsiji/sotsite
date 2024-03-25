@@ -11,8 +11,4 @@ class ServicesController extends Controller
         return view('services');
     }
 
-    public function pricing(){
-
-        return view('pricing');
-    }
 }

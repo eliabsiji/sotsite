@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+
 class AboutController extends Controller
 {
     public function index(){
@@ -11,13 +12,11 @@ class AboutController extends Controller
         return view('about');
     }
 
-    public function team1(){
+    public function ministers(){
 
-        return view('team1-details');
+        return view('ministers');
+
     }
 
-    public function team2(){
 
-        return view('team2-details');
-    }
 }

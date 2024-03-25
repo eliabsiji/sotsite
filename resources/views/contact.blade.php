@@ -1,122 +1,127 @@
 @extends('master')
 @section('content')
-        <!-- Contact -->
-        <div class="contact next-section-contact pt-130">
-            <div class="container">
+
+
+
+
+<section class="page-header page-header-modern bg-color-secondary page-header-lg mb-0">
+    <div class="container">
+        <div class="row my-4">
+            <div class="col-md-12 align-self-center text-center">
+                <h1 class="text-9 text-color-light custom-secondary-font font-weight-bold my-4">Contact</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+    <div class="row pt-1 pb-4 mb-3">
+        <div class="col-lg-8">
+
+            <h2 class="font-weight-bold text-color-dark">- Send a Message</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat ex finibus urna tincidunt, auctor ullamcorper risus luctus. Nunc et feugiat arcu, in placerat risus. Phasellus condimentum sapien vitae.</p>
+
+            <form class="contact-form custom-contact-form-style-1" action="https://www.okler.net/previews/porto/10.0.0/php/contact-form.php" method="POST">
+                <div class="contact-form-success alert alert-success d-none mt-4">
+                    <strong>Success!</strong> Your message has been sent to us.
+                </div>
+
+                <div class="contact-form-error alert alert-danger d-none mt-4">
+                    <strong>Error!</strong> There was an error sending your message.
+                    <span class="mail-error-message text-1 d-block"></span>
+                </div>
+
+                <input type="hidden" name="subject" value="Contact Message Received" />
                 <div class="row">
-                    <div class="section-head col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
-                        <h2>Contact Us</h2>
-                    </div>
-
-                    {{-- <!-- Info -->
-                    <div class="col-md-4 mb-60 animate-box" data-animate-effect="fadeInUp">
-                        <h4>Adrah Studio</h4>
-                        <p>
-                           We are a photography and videography company that
-                            specializes in capturing life’s most precious moments.
-                            They believe that every moment is worth capturing, and
-                             we’re passionate about helping their clients create
-                             lasting memories.We have a presence on different
-                             social media platforms.
-                        </p>
-
-                    </div> --}}
-                    <!-- Location -->
-                    <div class="col-md-4 mb-60 animate-box" data-animate-effect="fadeInUp">
-                        <h4>Phone</h4>
-                        <p>
-                            <a href="https://wa.me/4407565241644?text=Hello,%20i%20want%20to%20make%20enquiry%20about%20your%20services"> +447565241644</a>
-                        </p>
-                        <h4>Email</h4>
-                        <p>contact@adrahstudios.com</p>
-                        {{-- <h4>Address</h4>
-                        <p> 31, Sandringham Close. Wellingborough.NN8 2EJ.</p> --}}
-                    </div>
-                    <!-- Contact Form -->
-                    <div class="col-md-4 mb-60 animate-box" data-animate-effect="fadeInUp">
-                        @if(Session::has('success'))
-                            <div class="alert alert-success">
-                                {{Session::get('success')}}
-                            </div>
-                        @endif
-                        <div>
-                            <h4>Drop us a line!</h4>
+                    <div class="form-group col">
+                        <div class="custom-input-box">
+                            <i class="icon-user icons text-color-primary"></i>
+                            <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" placeholder="Name*" required>
                         </div>
-                        <form  method="POST" action="{{ route('contact.us.store') }}" id="contactUSForm" class="contact__form"  enctype="multipart/form-data">
-                                {{ csrf_field() }}
-                            <!-- Form message -->
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="alert alert-success contact__msg" style="display: none" role="alert"> Your message was sent successfully. </div>
-                                </div>
-                            </div>
-                            <!-- Form elements -->
-                            <div class="row">
-                                <div class="col-md-12 form-group">
-                                    <input name="name" type="text" placeholder="Your Name *" required value="{{ old('name') }}">
-                                        @if ($errors->has('name'))
-                                            <span class="text-danger">{{ $errors->first('name') }}</span>
-                                        @endif
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <input name="email" type="email" placeholder="Your Email *" value="{{ old('email') }}" required>
-                                        @if ($errors->has('email'))
-                                            <span class="text-danger">{{ $errors->first('email') }}</span>
-                                        @endif
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <input name="phone" type="text" placeholder="Your Number *" value="{{ old('phone') }}" required>
-                                    @if ($errors->has('phone'))
-                                      <span class="text-danger">{{ $errors->first('phone') }}</span>
-                                    @endif
-                                </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <div class="custom-input-box">
+                            <i class="icon-envelope icons text-color-primary"></i>
+                            <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" placeholder="Email*" required>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <div class="custom-input-box">
+                            <i class="icon-bubble icons text-color-primary"></i>
+                            <textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" placeholder="Message*" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col">
+                        <input type="submit" value="Submit Now" class="btn btn-outline custom-border-width btn-primary custom-border-radius font-weight-semibold text-uppercase mb-4" data-loading-text="Loading...">
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-lg-4">
 
-                                <div class="col-md-12 form-group">
-                                    <input name="instagram" type="text" placeholder="Your Instagram " >
-                                        @if ($errors->has('instagram'))
-                                          <span class="text-danger">{{ $errors->first('instagram') }}</span>
-                                        @endif
-                                </div>
-
-                                <div class="col-md-12 form-group">What type of event are you enquiring about?
-                                    <select name="event" class="col-md-12 form-group" required>
-                                        <option> ...Select...</option>
-                                        <option> Wedding</option>
-                                        <option> Pre-wedding</option>
-                                        <option> Portrait Session</option>
-                                        <option> Event</option>
-                                        <option> Other, specify</option>
-                                      </select>
-                                      <input name="specify" type="text" placeholder="Specify other events " value="{{ old('specify') }}">
-                                        @if ($errors->has('specify'))
-                                          <span class="text-danger">{{ $errors->first('specify') }}</span>
-                                        @endif
-                                        @if ($errors->has('event'))
-                                          <span class="text-danger">{{ $errors->first('event') }}</span>
-                                        @endif
-                                </div>
-
-
-                                <div class="col-md-12 form-group">
-                                    <input name="subject" type="text" placeholder="Subject *" value="{{ old('subject') }}" required>
-
-                                    @if ($errors->has('subject'))
-                                        <span class="text-danger">{{ $errors->first('subject') }}</span>
-                                     @endif
-                                </div>
-                                <div class="col-md-12 form-group">
-                                    <textarea name="message" id="message" cols="30" rows="4" placeholder="Message *" required>{{ old('message') }}</textarea>
-                                    @if ($errors->has('message'))
-                                        <span class="text-danger">{{ $errors->first('message') }}</span>
-                                     @endif
-                                </div>
-                                <div class="col-md-12">
-                                    <input name="submit" type="submit" value="Send Message">
-                                </div>
-                            </div>
-                        </form>
+            <div class="row mb-4">
+                <div class="col">
+                    <div class="feature-box feature-box-style-2">
+                        <div class="feature-box-icon mt-1">
+                            <i class="icon-location-pin icons"></i>
+                        </div>
+                        <div class="feature-box-info">
+                            <h2 class="font-weight-bold text-color-dark">- Address</h2>
+                            <p class="text-4">
+                                229/230 K2 House, Heathfield Way,<br>
+                                Northampton NN5 7QP
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
+            <div class="row mb-4">
+                <div class="col">
+                    <div class="feature-box feature-box-style-2">
+                        <div class="feature-box-icon mt-1">
+                            <i class="icon-phone icons"></i>
+                        </div>
+                        <div class="feature-box-info">
+                            <h2 class="font-weight-bold text-color-dark">- Phone</h2>
+                            <p class="text-4">
+                                Phone :+447847530525 <br>
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-4">
+                <div class="col">
+                    <div class="feature-box feature-box-style-2">
+                        <div class="feature-box-icon mt-1">
+                            <i class="icon-envelope icons"></i>
+                        </div>
+                        <div class="feature-box-info">
+                            <h2 class="font-weight-bold text-color-dark">- Email</h2>
+                            <p class="text-4">
+                                <a href="#" class="text-decoration-none"><span class="__cf_email__" data-cfemail="4c212d25200c29342d213c2029622f2321">contactus@sotsmnorthamptonuk.org</span></a><br>
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
+    </div>
+
+</div>
+
+<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
+<div id="googlemaps" class="google-map mt-4 mb-0"></div>
+
+
 @endsection
