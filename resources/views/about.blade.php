@@ -18,8 +18,22 @@
         <div class="row">
             <div class="col-lg-7 col-sm-7">
                 <h2 class="font-weight-bold">We seek love God above all thing</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare diam at lectus ultrices rutrum. Fusce et lobortis orci, vel rutrum nisl. Praesent ut eros blandit risus fermentum mattis. Ut eleifend metus in arcu malesuada, nec tincidunt lectus luctus. Suspendisse dignissim velit eu lacinia egestas. Duis posuere mi a est vestibulum congue. Pellentesque quis velit in velit maximus varius. Donec.</p>
-                <p class="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis mauris urna. Donec pellentesque eros non sapien malesuada, at facilisis diam interdum. Praesent non cursus dui, et consectetur risus. Pellentesque eu arcu sollicitudin, viverra neque ut, facilisis ligula. In faucibus tellus ac metus ullamcorper aliquet. Aliquam sem dui, cursus quis magna vitae, convallis malesuada tellus. Nam malesuada.</p>
+                <p>Welcome to Christ Life World Outreach Centre, (aka Sword of The Spirit Ministries), a vibrant church of our Lord Jesus Christ dedicated to worship, fellowship, and service to the Lord most high.
+
+                    Our church is more than just a building; it's a welcoming sanctuary where individuals and families come together to strengthen their faith through the Word of God and prayers. We seek God above all things.
+
+                    We believe in the transformative power of God's love and the importance of living out our faith in everyday life. Whether you're seeking spiritual guidance, a place to worship, or simply a community to belong to, we invite you to explore all that our church has to offer.
+
+                    Through inspiring worship services, engaging Bible studies, and opportunities for meaningful service and outreach, we strive to create an environment where people of all ages and backgrounds can grow in their relationship with God and one another.
+
+                    No matter where you are on your spiritual journey, you are welcome here. We invite you to join us as we seek to love God, love others, and make a difference in the world around us. Welcome to our church, where everyone is family.
+
+                    Welcome to Christ Life World Outreach Centre!</p>
+                <p class="font-weight-bold"> Through inspiring worship services, engaging Bible studies, and opportunities for meaningful service and outreach, we strive to create an environment where people of all ages and backgrounds can grow in their relationship with God and one another.
+
+                    No matter where you are on your spiritual journey, you are welcome here. We invite you to join us as we seek to love God, love others, and make a difference in the world around us. Welcome to our church, where everyone is family.
+
+                    Welcome to Christ Life World Outreach Centre!</p>
             </div>
             <div class="col-lg-5 col-sm-5 d-none d-sm-block">
                 <div class="custom-box-squares">
@@ -34,26 +48,35 @@
 
 <section class="section section-secondary section-no-border m-0">
     <div class="container">
-        <div class="row text-center justify-content-center">
-            <div class="col-sm-8 col-lg-4 mb-4 mb-lg-0">
-                <img src="img/demos/church/icons/custom-icon-1.png" alt class="img-repsonsive" />
+        <div class="row justify-content-center text-center custom-negative-margin-1">
+            <div class="col">
+                <div class="countdown custom-newcomers-class custom-secondary-font custom-box-shadow font-weight-bold text-color-dark" data-plugin-countdown data-plugin-options="{'textDay': 'DAYS', 'textHour': 'HRS', 'textMin': 'MIN', 'textSec': 'SEC', 'date': '2024/01/01 12:00:00', 'numberClass': 'font-weight-bold text-color-primary', 'wrapperClass': 'text-color-dark line-height-4', 'insertHTMLbefore': 'Newcomers Class', 'textDay': 'DAYS', 'textHour': 'Hrs', 'textMin': 'Min', 'textSec': 'Sec', 'uppercase': false}"></div>
+            </div>
+        </div>
+        <div class="row justify-content-center text-center">
+            {{-- <div class="col-lg-4 col-sm-8 mb-4 mb-lg-0">
+                <img src="img/demos/church/icons/custom-icon-1.png') }}" alt class="img-repsonsive" />
                 <h2 class="font-weight-bold text-color-light">Our Values</h2>
-                <p class="custom-text-color-2 mb-0">Lorem ipsum dolor sit amet, adipiscing elit.</br> Mauris accumsan tortor ut posuere consequat.</br> Fusce aliquet, dolor eget tempus ultricies, eros.</p>
-            </div>
-            <div class="col-sm-8 col-lg-4 mb-4 mb-lg-0">
-                <img src="img/demos/church/icons/custom-icon-2.png" alt class="img-repsonsive" />
+                <p class="custom-text-color-2">Lorem ipsum dolor sit amet, adipiscing elit.</br> Mauris accumsan tortor ut posuere consequat.</br> Fusce aliquet, dolor eget tempus ultricies, eros.</p>
+            </div> --}}
+            <div class="col-lg-6 col-sm-8 mb-4 mb-lg-0">
+                <img src="img/demos/church/icons/custom-icon-2.png') }}" alt class="img-repsonsive" />
                 <h2 class="font-weight-bold text-color-light">Join with Us</h2>
-                <p class="custom-text-color-2 mb-0"><strong class="text-color-light">Sundays at 8.00pm - 9.00pm</strong></br> at Porto Church 123 Porto Blvd, </br>Suite 100 New York, NY</p>
+                <p class="custom-text-color-2"><strong class="text-color-light">Sundays at 10.00am - 12.30pm</strong></br>Address: Kings Heath Industrial Estate,
+                </br>  229/230 K2 House, Heathfield Way, </br>   Northampton NN5 7QP</p>
             </div>
-            <div class="col-sm-8 col-lg-4">
-                <img src="img/demos/church/icons/custom-icon-3.png" alt class="img-repsonsive" />
+            <div class="col-lg-6 col-sm-8">
+                <img src="img/demos/church/icons/custom-icon-3.png') }}" alt class="img-repsonsive" />
                 <h2 class="font-weight-bold text-color-light">Our Mission</h2>
-                <p class="custom-text-color-2 mb-0">Lorem ipsum dolor sit amet, adipiscing elit.</br> Mauris accumsan tortor ut posuere consequat.</br> Fusce aliquet, dolor eget tempus ultricies, eros.</p>
+                <p class="custom-text-color-2"> To lead people to Christ massively all over the world.
+                    </br> To establish vibrant Churches strategically all over the world that will plant other vibrant churches.
+                    </br> To make the world a better place through practical application of the Gospel of Christ.
+                    </br> To make heaven our home at last.
+                .</p>
             </div>
         </div>
     </div>
 </section>
-
 <section class="section bg-color-tertiary section-no-border m-0">
     <div class="container">
         <div class="row">
@@ -71,13 +94,15 @@
                         </span>
                     </span>
                 </span>
-                <a href="demo-church-about-us-staff.html" class="btn btn-primary custom-btn-style-1 text-uppercase mb-4 mb-lg-0 mt-4" title="Meet Our Staff">Meet our Staff</a>
+                {{-- <a href="demo-church-about-us-staff.html" class="btn btn-primary custom-btn-style-1 text-uppercase mb-4 mb-lg-0 mt-4" title="Meet Our Staff">Meet our Staff</a> --}}
             </div>
             <div class="col-lg-9 col-sm-8">
                 <h2 class="font-weight-bold">What to Expect</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum felis ac turpis consectetur molestie. Donec rutrum nibh ac felis convallis tempor. Nunc non consequat lorem. Duis a porta sapien. Aliquam erat volutpat. Suspendisse aliquam, mi in elementum lacinia, orci erat hendrerit sem, eget varius elit magna sagittis velit. Proin posuere malesuada sem, nec venenatis justo sodales eget. Nunc imperdiet.</p>
-                <p class="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis mauris urna. Donec pellentesque eros non sapien malesuada, at facilisis diam interdum. Praesent non cursus dui, et consectetur risus. Pellentesque eu arcu sollicitudin, viverra neque ut, facilisis ligula. In faucibus tellus ac metus ullamcorper aliquet. Aliquam sem dui, cursus quis magna vitae, convallis malesuada tellus. Nam malesuada.</p>
-                <p class="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis mauris urna. Donec pellentesque eros non sapien malesuada, at facilisis diam interdum. Praesent non cursus dui, et consectetur risus. Pellentesque eu arcu sollicitudin, viverra neque ut, facilisis ligula. In faucibus tellus ac metus ullamcorper aliquet. Aliquam sem dui, cursus quis magna vitae, convallis malesuada tellus. Nam malesuada.</p>
+                <p>Fellowship: Building relationships with other members of the congregation is an important aspect of church life. You can expect to have opportunities for fellowship through activities like coffee hours, potlucks, or small group gatherings.</p>
+                <p>Spiritual Growth: Joining a church is a journey of spiritual growth and discovery. You may find support and guidance from clergy and fellow believers as you deepen your faith and explore your relationship with God.</p>
+                <p>Mission and Outreach: Many churches are actively involved in serving their local communities and addressing social justice issues. You may have opportunities to participate in outreach efforts or mission trips to make a positive impact beyond the church walls.</p>
+
+                <p class="text-2">Overall, joining a church can be a fulfilling and meaningful experience as you become part of a supportive community and deepen your spiritual journey. Take the time to explore different churches and find one where you feel welcomed, inspired, and connected.</p>
             </div>
         </div>
     </div>

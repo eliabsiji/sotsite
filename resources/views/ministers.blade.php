@@ -19,8 +19,8 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="font-weight-bold">We love the creator</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur tellus vel sagittis suscipit. Aliquam nec nunc massa. Proin massa lorem, euismod sit amet est sit amet, placerat maximus quam. Sed efficitur metus id nisl tempus vestibulum. Curabitur varius suscipit euismod. Curabitur faucibus, tellus ut tincidunt lacinia, massa arcu tempus mi, vel feugiat massa nunc.</p>
+                <h2 class="font-weight-bold">Our Ministers</h2>
+                <p>Meet our loving ministers, enjoy the fellowship</p>
             </div>
         </div>
         <div class="row mt-4 mb-4">
@@ -182,19 +182,7 @@
     </div>
 </section>
 
-<section class="section section-tertiary section-no-border m-0">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-10">
-                <span class="custom-secondary-font font-weight-bold custom-text-color-1 text-4">First time visitor</span>
-                <h2 class="font-weight-bold custom-text-color-1 m-0">Find out more about the Church. <span class="font-weight-normal custom-secondary-font custom-font-italic">You belong here</span></h2>
-            </div>
-            <div class="col-lg-2 mt-4 mt-lg-0">
-                <a href="demo-church-about-us.html" class="btn btn-primary custom-btn-style-1 text-uppercase">Visitors Guide</a>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <section class="section section-no-border custom-position-relative custom-overflow-hidden p-0 m-0">
     <div class="custom-view-our-location text-center">

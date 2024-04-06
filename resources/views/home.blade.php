@@ -13,11 +13,11 @@
                                     <div class="col-lg-7">
                                         <div class="d-flex flex-column justify-content-center align-items-center text-center h-100">
                                             <span class="position-relative text-color-light text-6 line-height-5 font-weight-medium custom-secondary-font pe-4 mb-0 appear-animation" data-appear-animation="fadeInDownShorter" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
-                                                Introducing
+                                                Welcome
                                             </span>
-                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">Proceed to the Next Steps</h1>
-                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">JOIN OUR COMMUNITY CHURCH</p>
-                                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">LEARN MORE</a>
+                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">WORSHIP IS OUR CULTURE</h1>
+                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">Join Us today</p>
+                                            <a href="{{ route('aboutus') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">know more about us...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -31,11 +31,11 @@
                                     <div class="col-lg-7">
                                         <div class="d-flex flex-column justify-content-center align-items-center text-center h-100">
                                             <span class="position-relative text-color-light text-6 line-height-5 font-weight-medium custom-secondary-font pe-4 mb-0 appear-animation" data-appear-animation="fadeInDownShorter" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
-                                                Together
+                                                ...THE CHILDREN
                                             </span>
-                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">We Can Make Difference</h1>
-                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">JOIN OUR COMMUNITY CHURCH</p>
-                                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">LEARN MORE</a>
+                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">the Children Express the Kingdom </h1>
+                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">OUT OF THE MOUTH OF BABES...</p>
+                                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">More...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -51,9 +51,9 @@
                                             <span class="position-relative text-color-light text-6 line-height-5 font-weight-medium custom-secondary-font pe-4 mb-0 appear-animation" data-appear-animation="fadeInDownShorter" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
                                                 Together
                                             </span>
-                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">We Can Make Difference</h1>
-                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">JOIN OUR COMMUNITY CHURCH</p>
-                                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">LEARN MORE</a>
+                                            <h1 class="text-color-light font-weight-extra-bold text-13 line-height-1 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-plugin-options="{'minWindowWidth': 0}">We Make Difference</h1>
+                                            <p class="text-5 text-color-light font-weight-light custom-secondary-font mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">ONE BIG FAMILY...</p>
+                                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary font-weight-bold btn-py-2 btn-px-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">MORE...</a>
                                         </div>
                                     </div>
                                 </div>
@@ -72,11 +72,11 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-10">
-                            <span class="custom-secondary-font font-weight-bold custom-text-color-1 text-4">First time visitor</span>
-                            <h2 class="font-weight-bold custom-text-color-1 m-0">Find out more about the Church. <span class="font-weight-normal custom-secondary-font custom-font-italic">You belong here</span></h2>
+                            <span class="custom-secondary-font font-weight-bold custom-text-color-1 text-4">First time visitor?</span>
+                            <h2 class="font-weight-bold custom-text-color-1 m-0">Find out more about US <span class="font-weight-normal custom-secondary-font custom-font-italic">You belong here</span></h2>
                         </div>
                         <div class="col-lg-2 mt-4 mt-lg-0">
-                            <a href="{{ asset('html/demo-church-about-us.html') }}" class="btn btn-primary custom-btn-style-1 text-uppercase">Visitors Guide</a>
+                            <a href="{{ route('aboutus') }}" class="btn btn-primary custom-btn-style-1 text-uppercase">More</a>
                         </div>
                     </div>
                 </div>

@@ -4,7 +4,7 @@
         <div class="row text-center">
             <div class="col">
                 <a href="{{ asset('html/demo-church.html') }}" class="text-decoration-none">
-                    <img src="{{ asset('html/img/demos/church/logo-footer.png') }}" width="123" height="48" alt class="img-fluid custom-img-fluid-center" />
+                    <img src="{{ asset('html/img/demos/church/logo2.png') }}" alt class="img-fluid custom-img-fluid-center" />
                 </a>
             </div>
         </div>
